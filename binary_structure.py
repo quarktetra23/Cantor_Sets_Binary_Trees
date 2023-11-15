@@ -47,9 +47,6 @@ construct_cantor_set_tree(cantor_set_root, depth_of_tree)
 # Print the binary tree with fractions
 print_tree(cantor_set_root)
 
-# Visualize the binary tree with fractions
-visualize_tree(cantor_set_root)
-
 
 #When teh output is decimal
 
